@@ -1,11 +1,14 @@
 import Button from '../../components/atoms/Button/Button';
 import HeroText from '../../components/molecules/HeroText/HeroText';
+import StatusBar from '../../components/molecules/StatusBar/StatusBar';
 import shape from '../../assets/shape.png';
 import './OnboardingPage.css';
 
 export default function OnboardingPage() {
   return (
     <main className="onboarding">
+      <StatusBar />
+
       <h1 className="onboarding__logo">
         Crypt<span>X</span>
       </h1>
