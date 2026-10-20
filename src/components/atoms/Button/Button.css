@@ -1,0 +1,17 @@
+.btn {
+  width: 100%;
+  height: 52px;
+  border: none;
+  border-radius: 12px;
+  background: #6c4dff;
+  color: #fff;
+  font-family: 'Poppins', sans-serif;
+  font-size: 15px;
+  font-weight: 500;
+  cursor: pointer;
+  box-shadow: 0 10px 30px rgba(108, 77, 255, 0.35);
+  transition: transform 0.15s, background 0.15s;
+}
+
+.btn:hover { background: #7d62ff; }
+.btn:active { transform: scale(0.98); }
