@@ -1,0 +1,12 @@
+.hero-text__title {
+  font-size: 28px;
+  font-weight: 600;
+  line-height: 1.5;
+}
+
+.hero-text__subtitle {
+  margin-top: 16px;
+  font-size: 13px;
+  line-height: 1.6;
+  max-width: 180px;
+}
