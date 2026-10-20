@@ -2,6 +2,7 @@
   font-size: 28px;
   font-weight: 600;
   line-height: 1.5;
+  max-width: 260px;
 }
 
 .hero-text__subtitle {
